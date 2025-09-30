@@ -3,10 +3,30 @@
     <title>Bhuster</title>
     <link href="https://BhusterEby.github.io/feed.xml" rel="self" />
     <link href="https://BhusterEby.github.io" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2025-09-30T18:05:15-05:00</updated>
     <author>
         <name>Aiden</name>
     </author>
     <id>https://BhusterEby.github.io</id>
 
+    <entry>
+        <title>Hello!</title>
+        <author>
+            <name>Aiden</name>
+        </author>
+        <link href="https://BhusterEby.github.io/hello.html"/>
+        <id>https://BhusterEby.github.io/hello.html</id>
+
+        <updated>2025-09-30T18:05:15-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a test for my website, to see if anything currently is working right now.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a test for my website, to see if anything currently is working right now.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
