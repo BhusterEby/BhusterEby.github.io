@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://BhusterEby.github.io/sitemap.xml

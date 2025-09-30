@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Bhuster&#x27;s Buzz</title>
+    <link href="https://BhusterEby.github.io/feed.xml" rel="self" />
+    <link href="https://BhusterEby.github.io" />
+    <updated>1969-12-31T18:00:00-06:00</updated>
+    <author>
+        <name>Aiden</name>
+    </author>
+    <id>https://BhusterEby.github.io</id>
+
+</feed>
